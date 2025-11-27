@@ -13,6 +13,6 @@ Hello :D
 <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=NguyenVoTheTuyen&theme=tokyonight&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=namto908&theme=tokyonight&show_icons=true&count_private=true">
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVoTheTuyen&theme=tokyonight&layout=compact&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namto908&theme=tokyonight&layout=compact&langs_count=6">
