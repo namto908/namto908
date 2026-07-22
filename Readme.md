@@ -34,8 +34,11 @@ I'm a Software Engineer based in Hanoi, Vietnam, with a strong focus on **Artifi
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namto908&theme=tokyonight&show_icons=true&count_private=true" alt="namto908's GitHub Stats">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namto908&theme=tokyonight&layout=compact&langs_count=6" alt="namto908's Top Languages">
+  
+[![namto908's GitHub Stats](https://github-readme-stats.vercel.app/api?username=namto908&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/namto908)
+
+[![namto908's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namto908&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/namto908)
+
 </div>
