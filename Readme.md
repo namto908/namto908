@@ -1,18 +1,37 @@
-# Hello there 👋! Welcome to my GitHub profile! ✌
-Hello :D
+# Hi there 👋, Welcome to my GitHub!
+
+**Software Engineer @ iClever | Backend & Automation Enthusiast**
+
+I'm a Software Engineer based in Hanoi, Vietnam, with a strong focus on backend development, system automation, and data engineering. I enjoy building efficient data pipelines, managing Linux servers, and creating seamless automation workflows.
+
+## 🚀 About Me
+- 🏢 Currently working as a Software Engineer at **iClever**.
+- ⚙️ Deeply interested in **Python**, server administration (Ubuntu, systemd), and building scalable data crawling architectures.
+- 🛠️ Experienced with containerization (**Docker**), workflow automation (**n8n**), caching (**Redis**), and web development.
+- 🎮 In my free time, I enjoy developing Discord bots, configuring game servers (Don't Starve Together, Minecraft), and tinkering with mobile emulation.
+- 📫 How to reach me: *(Điền email hoặc LinkedIn của bạn vào đây)*
+
+---
 
 ## 🛠️ Technologies & Tools
 
-### Front-end
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+### 💻 Backend & Languages
+<img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 
-### Back-end
-<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+### 🌐 Frontend
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
 
-### AI / ML
+### ⚙️ DevOps, Database & Automation
+<img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/n8n-%23FF6D5A.svg?style=for-the-badge&logo=n8n&logoColor=white"> <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"> 
+
+### 🤖 AI / ML & Data
 <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 
+---
+
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=namto908&theme=tokyonight&show_icons=true&count_private=true">
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namto908&theme=tokyonight&layout=compact&langs_count=6">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=namto908&theme=tokyonight&show_icons=true&count_private=true" alt="namto908's GitHub Stats">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namto908&theme=tokyonight&layout=compact&langs_count=6" alt="namto908's Top Languages">
+</div>
