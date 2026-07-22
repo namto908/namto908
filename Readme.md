@@ -10,7 +10,7 @@ I'm a Software Engineer based in Hanoi, Vietnam, with a strong focus on **Artifi
 - 🛡️ **Security**: Dedicated to implementing secure coding practices, API security, vulnerability management, and server hardening.
 - ⚙️ **Backend & DevOps**: Experienced in **Python**, building automated data pipelines, managing Linux servers (Ubuntu), and workflow automation (Docker, n8n, Redis).
 - 🎮 Beyond coding, I enjoy developing Discord bots, configuring self-hosted game servers, and exploring system optimizations.
-- 📫 How to reach me: *(Điền email hoặc LinkedIn của bạn vào đây)*
+- 📫 How to reach me: namto908@gmail.com
 
 ---
 
